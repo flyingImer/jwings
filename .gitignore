@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Winglang ###
+node_modules/
+target/
+values.yaml
+*.tgz
